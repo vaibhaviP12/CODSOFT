@@ -1,5 +1,5 @@
 # CODSOFT
-CREDIT CARD FRAUD DETECTION 
+CREDIT CARD FRAUD DETECTION -  
 This project focuses on detecting fraudulent transactions using machine learning models. The primary goal is to classify transactions as either fraudulent or legitimate.
 ## Project Overview
 Fraud detection is a critical task for financial institutions to prevent losses and protect customers. This project utilizes various machine learning algorithms to detect fraudulent transactions. The models used include:
